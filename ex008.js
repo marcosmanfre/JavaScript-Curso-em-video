@@ -4,3 +4,8 @@ if (vel > 60) {  //condição simples
     console.log(`Você ultrapassou a velocidade permitida. Multado!`)
 }
 console.log(`Dirija sempre usando cinto de segurança!`)
+
+
+num = 8
+num **=2
+console.log(num)
